@@ -9,12 +9,11 @@ export const Header = (props)=> {
         <div style={{
             display: 'flex',
             background: '#e5e5e5',
-
-            height: '100px',
+            height: '60px',
             flexDirection: 'row',
             justifyContent: 'space-between',
             alignItems: 'center',
-        
+            paddingLeft: '25px',
             paddingRight: '25px'
         }}>
             <div style={{
