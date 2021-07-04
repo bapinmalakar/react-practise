@@ -1,0 +1,59 @@
+button {
+    /* padding: 15px;
+    border-radius: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: inline-block;
+    text-transform: uppercase;
+    cursor: pointer; */
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  float: left;
+  margin-left: 40px;
+  
+}
+
+select {
+    padding-left: 15px;
+    padding-right: 14px;
+    border-radius: 10px;
+    height: 45px;
+    min-width: 150px;
+}
+form label, form input {
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 20%
+  }
+  
+  form input {
+    padding: 10px;
+    margin-left: 30px;
+    text-align: left;
+   border: solid 1px #0e192b;
+  
+  }
+  
+  .button {
+    background-color: #00BFFF;
+    border-color: #3ac162;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 12px 15px;
+    display: inline-block;
+    color: #ffffff;
+  }
+
+  
